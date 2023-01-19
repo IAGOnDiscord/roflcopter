@@ -17,4 +17,10 @@ It should be possible to run this under a pure POSIX shell, but it doesn't seem 
 Dependencies: `Bash`
 
 
+Installation:
+
+1. Download `roflcopter` (either by cloning the repo or downloading the binary release)
+2. Run `./roflcopter`
+3. ROFL!
+
 A massive thank you to ![dylanaraps](https://github.com/dylanaraps) and his ![great guide](https://github.com/dylanaraps/writing-a-tui-in-bash) on implementing TUI-like features in Bash.
