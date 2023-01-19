@@ -1,0 +1,34 @@
+#!/bin/bash
+
+trap 'printf "\e[?25h"; stty echo' EXIT # show input and cursor
+
+stty -echo          # hide input
+printf '\e[?25l'    # hide cursor
+
+while true; do
+    printf "          :ROFL:ROFL \n"
+    printf "         _^___       \n"
+    printf " L    __/   [] \     \n"
+    printf " O====__        \    \n"
+    printf " L      \________]   \n"
+    printf "         I   I       \n"
+    printf "        --------/    \n"
+    printf "                     \n"
+    printf "      ROFL COPTER!!! "
+   
+    sleep 0.1
+    printf "\e[8A"; printf "\e[21D"     # move cursor back to start
+    
+    printf " ROFL:ROFL:          \n"
+    printf "         _^___       \n"
+    printf "      __/   [] \     \n"
+    printf "LOL===__        \    \n"
+    printf "        \________]   \n"
+    printf "         I   I       \n"
+    printf "        --------/    \n"
+    printf "                     \n"
+    printf "      ROFL COPTER!!! "
+
+    sleep 0.1
+    printf "\e[8A"; printf "\e[21D"
+done
