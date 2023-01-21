@@ -20,7 +20,8 @@ Dependencies: `Bash`
 Installation:
 
 1. Download `roflcopter` (either by cloning the repo or downloading the binary release)
-2. Run `./roflcopter`
-3. ROFL!
+2. Give `roflcopter` execute permissions
+3. Run `./roflcopter`
+4. ROFL!
 
 A massive thank you to ![dylanaraps](https://github.com/dylanaraps) and his ![great guide](https://github.com/dylanaraps/writing-a-tui-in-bash) on implementing TUI-like features in Bash.
