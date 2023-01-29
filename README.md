@@ -1,4 +1,4 @@
-#### This project is complete. Any (unlikely) future development will be done on Gitlab. Please direct any issues there.
+#### This project is considered complete. Any (unlikely) future development will be done on Codeberg. Please direct any issues there.
 
 # roflcopter
 
