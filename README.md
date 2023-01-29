@@ -26,4 +26,4 @@ Installation:
 3. Run `./roflcopter`
 4. ROFL!
 
-A massive thank you to ![dylanaraps](https://github.com/dylanaraps) and his ![great guide](https://github.com/dylanaraps/writing-a-tui-in-bash) on implementing TUI-like features in Bash.
+A massive thank you to [dylanaraps](https://github.com/dylanaraps) and his [great guide](https://github.com/dylanaraps/writing-a-tui-in-bash) on implementing TUI-like features in Bash.
