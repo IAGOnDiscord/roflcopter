@@ -1,5 +1,7 @@
 #### This project is considered complete. While I will respond to issues, I am unlikely to add additional features.
 
+#### Additionally, keep in mind that this is intended to be a joke project. You can fork this project or rewrite it in another language if you wish, as I'm unlikely to do so myself. `lmaocopter` could be a good name.
+
 # roflcopter
 
 ```
